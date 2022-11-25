@@ -1,2 +1,0 @@
-# hello-word
-experimental project
